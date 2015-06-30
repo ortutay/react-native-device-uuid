@@ -17,7 +17,7 @@
     "ios"
   ],
   "peerDependencies": {
-    "react-native": ">=0.3.4 <=0.6.0rc"
+    "react-native": ">=0.3.4"
   },
   "author": "Chih-Wei <bert.cwchang@gmail.com> (Bert)",
   "license": "MIT"
